@@ -82,7 +82,7 @@ Each claim has an annotation: `supports`, `refutes`, or `not enough information`
 
 ## Usage
 
-Run the pipeline stages in order. Each script corresponds to one of the original notebooks.
+Run the pipeline stages in order. 
 
 ### Step 1: Build retrieval indices
 
